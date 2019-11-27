@@ -46,15 +46,20 @@ Ce framework est développée et entretenue de façon active.
  
 ## Quelles difficultés avez-vous rencontrées ?
 
-> Découverte de Github et de ses fonctions
-> Découverte de la navigation sur Pythonanywhere mais intuitif en général
+- Découverte de Github et de ses fonctions
+- Découverte de la navigation sur Pythonanywhere mais intuitif en général
 
 # Réflexions sur le projet 
 ## Quels sont, selon vous, les aspects techniques limitants du projet FLGAZ dans l'état initial ?
  
-> N'importe qui peut créer un poste
-> Pas de limite de caractères par poste
-> Pas sécurisé
+- Pas de compte afin de créer un poste
+- Pas de limite de caractères par poste
+- Pas sécurisé contre le spam
+- Impossible de mettre des images / vidéos
  
 ## Quelles sont, selon vous, les menaces auxquelles un tel projet peut être soumis ?
 
+- Problème de message insultants
+- Discriminations
+- Usurpation d'identité
+- Fake news
