@@ -1,4 +1,4 @@
-# Que propose le site PythonAnywhere.com ?
+## Que propose le site PythonAnywhere.com ?
 
 Pythonanywhere est un PAAS en Cloud, ce qui signifie que vous pouvez simplement vous soucier du codage et laisser l'hébergement de la plate-forme, de la DB et des considérations PAAS sur pythonanywhere.
 
@@ -10,7 +10,7 @@ PythonAnywhere est utilisé pour faire la plupart des choses que vous pouvez fai
   - Creer et gérer des base de données ("Databases")
 Si vous passez à un compte premium, vous pouvez également utiliser "Jupyter Notebooks", qui sont populaires dans la communauté scientifique.
 
-# Qu'est ce que FLASK ? Quels sites connus utilisent Flask ?
+## Qu'est ce que FLASK ? Quels sites connus utilisent Flask ?
 
 Flask est un framework/application web Python inspiré du framework Sinatra ruby et disponible sous licence BSD.
 
@@ -30,8 +30,8 @@ Liste de site utilisant Flask :
  
 Ce framework est développée et entretenue de façon active.
  
-## Description des actions réalisées 
-# Quelles étapes avez-vous suivi ?
+# Description des actions réalisées 
+## Quelles étapes avez-vous suivi ?
  
 1. Création des comptes sur github et Pythonanywhere
 2. Création d'un repository github flgaz-ipssi
@@ -44,17 +44,17 @@ Ce framework est développée et entretenue de façon active.
 8. Modifier dans l'onglet Web le Working depository : /home/juantacos/mysite 
 9. Teste du site web : http://juantacos.pythonanywhere.com/gaz || http://juantacos.pythonanywhere.com/timeline
  
-# Quelles difficultés avez-vous rencontrées ?
+## Quelles difficultés avez-vous rencontrées ?
 
 > Découverte de Github et de ses fonctions
 > Découverte de la navigation sur Pythonanywhere mais intuitif en général
 
-## Réflexions sur le projet 
-# Quels sont, selon vous, les aspects techniques limitants du projet FLGAZ dans l'état initial ?
+# Réflexions sur le projet 
+## Quels sont, selon vous, les aspects techniques limitants du projet FLGAZ dans l'état initial ?
  
 > N'importe qui peut créer un poste
 > Pas de limite de caractères par poste
 > Pas sécurisé
  
-# Quelles sont, selon vous, les menaces auxquelles un tel projet peut être soumis ?
+## Quelles sont, selon vous, les menaces auxquelles un tel projet peut être soumis ?
 
