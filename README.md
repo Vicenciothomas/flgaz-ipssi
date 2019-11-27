@@ -7,10 +7,10 @@ PythonAnywhere est utilisé pour faire la plupart des choses que vous pouvez fai
   - Editer un fichier python et l'exécuter (depuis l'onglet "Files")
   - Héberger une application Web ("Web") 
   - Programmer des tâches à exécuter à intervalles réguliers ("Tasks"). 
-  - Creer et gérer des base de données ("Databases")
+  - Créer et gérer des base de données ("Databases")
 Si vous passez à un compte premium, vous pouvez également utiliser "Jupyter Notebooks", qui sont populaires dans la communauté scientifique.
 
-## Qu'est ce que FLASK ? Quels sites connus utilisent Flask ?
+## Qu'est-ce que FLASK ? Quels sites connus utilisent Flask ?
 
 Flask est un framework/application web Python inspiré du framework Sinatra ruby et disponible sous licence BSD.
 
@@ -18,7 +18,7 @@ C'est un outil qui permet de créer des sites plus rapidement. Flask accélère 
 
 Il a un noyau simple, avec un grand nombre d'extensions qui aident à bien l'intégrer.
 
-Liste de site utilisant Flask :
+Liste des sites utilisant Flask :
  - Netflix
  - PythonAnywhere
  - Lyft
